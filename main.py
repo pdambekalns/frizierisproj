@@ -1,6 +1,6 @@
-import jaut   #Iportē lietotāja definētu funkciju.
+import jaut   #Importē lietotāja definētu funkciju.
 
-# Konsolē izvada salona nosaukumu un, kādas darbības programma piedāvā.
+# Konsolē izvada salona nosaukumu un kādas darbības programma piedāvā.
 print("VEIC PIERAKSTU SALONĀ 'PĒTERIS' ")
 print("Ja nevēlaties izmantot programmu, lai pierakstītos zvaniet uz +371 24202469")
 print("Izvēlies kādu no sekojošajiem!:")
