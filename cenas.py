@@ -1,4 +1,4 @@
-def samaksa(x): # Izveido jaunu funkciju un piešķir tai mainīgo.
+def samaksa(x):  # izveido funkciju un piešķir tai vērtību.
   if x=="A": # Pārbauda vai "x" ir vienāds ar "A", ja vienāds tad izvada 3. un 4. rindā redzamo teksu.
     print("Cena par izvēlētā friziera pakalpojumu sāksies no 35eiro.")
     print("Cena var palielinātie atkarībā no krasojuma, griezuma un ieveidošanas izvēles.")
